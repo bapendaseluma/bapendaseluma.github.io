@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "PBB-P2"
+date:   2026-05-01 13:00:00 +0800
+categories: PBB-P2
+---
+
+Pajak Bumi dan Bangunan Perdesaan dan Perkotaan (PBB-P2) adalah pajak atas bumi dan/atau bangunan yang dimiliki, dikuasai, dan/atau dimanfaatkan oleh orang pribadi atau badan.
+
+## Persyaratan Pendaftaran Objek Pajak Baru PBB-P2
+
+Untuk mendaftarkan objek pajak baru PBB-P2 di Kabupaten Seluma, wajib pajak harus menyiapkan dan melengkapi dokumen persyaratan berikut:
+
+1. Surat Permohonan Pajak Baru PBB.
+2. Formulir SPOP (Surat Pemberitahuan Objek Pajak).
+3. Formulir LSPOP (Lampiran SPOP), diwajibkan bila terdapat bangunan pada objek pajak.
+4. Fotokopi dokumen kepemilikan tanah, dapat berupa:
+   * Sertifikat Tanah
+   * Surat Keterangan Tanah (SKT)
+   * Akta Jual Beli
+   * Surat Hibah atau Waris
+   * Surat Keterangan Perolehan Hak
+5. Fotokopi IMB (Izin Mendirikan Bangunan) atau Surat Keterangan Bangunan (bila ada bangunan). Apabila tidak memiliki IMB, maka wajib melampirkan **Surat Pengantar dari Kelurahan/Desa** yang menjelaskan rincian luas bangunan tersebut.
+6. Fotokopi KTP Pemohon.
+7. Fotokopi SPPT / STTS (Bukti Lunas PBB) milik tetangga terdekat dari letak objek pajak.
