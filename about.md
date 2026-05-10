@@ -67,6 +67,4 @@ Bapenda Kabupaten Seluma berkomitmen untuk:
 - Mendukung pembangunan daerah melalui pengelolaan pajak yang efektif  
 
 ---
-💡 *"Pajakmu, Untuk Negeri"*  
-
-💡 *"Pajak Kuat, Daerah Hebat"*  
+💡 *"Pajakmu, Untuk Negeri"* 
