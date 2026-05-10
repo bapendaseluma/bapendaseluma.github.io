@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Pajak MBLB"
+date:   2026-05-01 15:00:00 +0800
+categories: MBLB, Quari
+---
+
+## 📑 Daftar Isi
+- [Perhitungan MBLB](#perhitungan-mblb)
+- [Validasi MBLB](#validasi-mblb)
+
+---
+
+## 🏷️ Pajak MBLB
+
+Pajak Mineral Bukan Logam dan Batuan (MBLB) merupakan pajak atas kegiatan pengambilan mineral bukan logam dan batuan yang dimanfaatkan untuk berbagai keperluan pembangunan.
+
+---
+
+## 🧮 Perhitungan MBLB
+
+**SYARAT:**
+
+1. FORMULIR PERMOHONAN PERHITUNGAN  
+2. FOTO COPY RAB PEKERJAAN  
+3. FOTO COPY ANALISA PEKERJAAN  
+4. SURAT KUASA JIKA PENGURUSAN DIWAKILKAN  
+
+---
+
+## ✅ Validasi MBLB
+
+**SYARAT:**
+
+1. FORMULIR PERMOHONAN VALIDASI  
+2. FOTO COPY KTP  
+3. REKAP PERHITUNGAN MBLB  
+4. FOTO COPY NOTA FAKTUR DARI QUARY  
+5. SURAT KUASA (JIKA PENGURUSAN DI WAKILKAN) 
