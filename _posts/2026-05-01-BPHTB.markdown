@@ -1,0 +1,76 @@
+---
+layout: post
+title:  "BPHTB"
+date:   2026-05-01 14:00:00 +0800
+categories: BPHTB
+---
+
+## 📑 Daftar Isi
+- [Jual Beli](#jual-beli)
+- [Waris](#waris)
+- [Hibah](#hibah)
+- [APHB](#aphb)
+
+---
+
+## 🏷️ BPHTB
+
+Bea Perolehan Hak atas Tanah dan Bangunan (BPHTB) merupakan pajak atas perolehan hak atas tanah dan/atau bangunan.
+
+---
+
+## 🤝 Jual Beli
+
+**SYARAT:**
+
+1. Fotokopi KTP Penjual dan Pembeli  
+2. Fotokopi NPWP Pemilik Tanah  
+3. Fotokopi kwitansi pembelian  
+4. Fotokopi Surat Jual beli tanah yang di ketahui Oleh Kades  
+5. Fotokopi Bukti kepemilikan tanah  
+6. Bukti lunas PBB  
+7. PBB tahun berjalan  
+
+*"jika jual beli tanah tidak ada sertifikat wajib melampirkan SK Pengukuran dari ATR/BPN)*
+
+---
+
+## 🧾 Waris
+
+**SYARAT:**
+
+1. Surat keterangan kematian  
+2. Surat keterangan ahli waris  
+3. Fotokopi KTP penerima waris  
+4. Fotokopi KK ahli waris  
+5. Fotokopi Buku kepemilikan tanah  
+6. Bukti lunas PBB  
+7. PBB tahun berjalan  
+
+---
+
+## 🎁 Hibah
+
+**SYARAT:**
+
+1. Surat keterangan hibah  
+2. Fotokopi KTP Pemilik hibah Tanah  
+3. Fotokopi KTP pemberi Hibah tanah  
+4. Fotokopi Buku kepemilikan tanah  
+5. Bukti lunas PBB  
+6. PBB tahun berjalan  
+
+---
+
+## 📜 APHB
+
+**SYARAT:**
+
+1. Surat keterangan kematian  
+2. Surat keterangan ahli waris  
+3. Fotokopi KTP penerima waris  
+4. Fotokopi KK ahli waris  
+5. Surat keterangan Pemberian Hak  
+6. Fotokopi Buku kepemilikan tanah  
+7. Bukti lunas PBB  
+8. PBB tahun berjalan  
