@@ -21,9 +21,9 @@ Pajak Bumi dan Bangunan Perdesaan dan Perkotaan (PBB-P2) adalah pajak atas bumi 
 
 ---
 
-## 📝 Persyaratan Pendaftaran Objek Pajak Baru PBB-P2
+## 📝 Pendaftaran Objek Pajak Baru PBB-P2
 
-Untuk mendaftarkan objek pajak baru PBB-P2 di Kabupaten Seluma, wajib pajak harus menyiapkan dan melengkapi dokumen persyaratan berikut:
+**SYARAT:**
 
 1. Surat Permohonan Pajak Baru PBB.  
 2. Formulir SPOP (Surat Pemberitahuan Objek Pajak).  
@@ -42,6 +42,8 @@ Untuk mendaftarkan objek pajak baru PBB-P2 di Kabupaten Seluma, wajib pajak haru
 
 ## 📄 Salinan
 
+**SYARAT:**
+
 1. Surat Permohonan Pajak Baru PBB;  
 2. Fotokopi bukti LUNAS PBB (STTS);  
 3. Fotokopi KTP;  
@@ -50,6 +52,8 @@ Untuk mendaftarkan objek pajak baru PBB-P2 di Kabupaten Seluma, wajib pajak haru
 ---
 
 ## 📉 Pengurangan
+
+**SYARAT:**
 
 1. Surat Permohonan Pengurangan PBB  
 2. Fotokopi PBB;  
@@ -61,6 +65,8 @@ Untuk mendaftarkan objek pajak baru PBB-P2 di Kabupaten Seluma, wajib pajak haru
 ---
 
 ## 🔄 Mutasi Objek Pajak
+
+**SYARAT:**
 
 1. Surat Permohonan Mutasi PBB;  
 2. SPOP Induk SPOP Pecah (bila pecah/Sisah);  
@@ -76,6 +82,8 @@ Untuk mendaftarkan objek pajak baru PBB-P2 di Kabupaten Seluma, wajib pajak haru
 
 ## ⚖️ Keberatan
 
+**SYARAT:**
+
 1. Surat Permohonan Pajak Baru PBB;  
 2. SPOP  
 3. LSPOP (bila ada bangunan);  
@@ -87,6 +95,8 @@ Untuk mendaftarkan objek pajak baru PBB-P2 di Kabupaten Seluma, wajib pajak haru
 ---
 
 ## 🛠️ Pembetulan
+
+**SYARAT:**
 
 1. Surat Permohonan Pajak Baru PBB,  
 2. SPOP  
