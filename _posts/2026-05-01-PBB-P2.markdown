@@ -6,7 +6,6 @@ categories: PBB-P2
 ---
 
 ## 📑 Daftar Isi
-- [PBB-P2](#pbb-p2)
 - [Pendaftaran Objek Pajak Baru](#persyaratan-pendaftaran-objek-pajak-baru-pbb-p2)
 - [Salinan](#salinan)
 - [Pengurangan](#pengurangan)
