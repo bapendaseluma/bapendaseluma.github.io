@@ -4,25 +4,69 @@ title: About
 permalink: /about/
 ---
 
-## Profil Instansi
+---
+layout: page
+title: Tentang Kami
+permalink: /about/
+---
 
-**a. Nama Instansi** : Badan Pendapatan Daerah Kabupaten Seluma  
-**b. Alamat** : Jl. Soekarno-Hatta No. 01 Pematang Aur-Tais, Kec. Seluma, Kabupaten Seluma, Bengkulu  
-**c. Kode Pos** : 38576  
-**d. Email Utama** : bapenda@selumakab.go.id  
-**e. Email** : bapendaseluma2021@gmail.com  
+## 🏛️ Badan Pendapatan Daerah Kabupaten Seluma
 
-Badan Pendapatan Daerah Kabupaten Seluma (Bapenda) merupakan salah satu Organisasi Perangkat Daerah (OPD) yang berada di bawah dan bertanggung jawab kepada Bupati Seluma (Pemerintah Kabupaten Seluma).  
+**Badan Pendapatan Daerah (Bapenda) Kabupaten Seluma** merupakan Organisasi Perangkat Daerah (OPD) yang berada di bawah dan bertanggung jawab kepada Bupati Seluma. Bapenda memiliki peran penting dalam mengelola dan mengoptimalkan Pendapatan Asli Daerah (PAD) guna mendukung pembangunan daerah dan kesejahteraan masyarakat.
 
-Pembentukan Bapenda Kabupaten Seluma berawal dari pemisahan Bidang Pendapatan dari Badan Pengelolaan Keuangan Daerah (BPKD) pada tahun 2021, yang kemudian ditetapkan menjadi Badan Pendapatan Daerah Kabupaten Seluma. Perubahan tersebut didasarkan pada Peraturan Daerah Kabupaten Seluma Nomor 2 Tahun 2021 tentang Perubahan atas Peraturan Daerah Kabupaten Seluma Nomor 27 Tahun 2016 tentang Kedudukan, Susunan Organisasi, dan Tata Kerja Badan Daerah Kabupaten Seluma, serta diatur lebih lanjut melalui Peraturan Bupati Seluma Nomor 30 Tahun 2021.  
+---
 
-Selanjutnya, pada tahun 2022 dilakukan penyesuaian kembali terhadap kedudukan, susunan organisasi, dan tata kerja Badan Daerah melalui Peraturan Daerah Kabupaten Seluma Nomor 18 Tahun 2022 serta perubahan rincian tugas dan fungsi melalui Peraturan Bupati Seluma Nomor 30 Tahun 2022.  
+## 📌 Informasi Umum
 
-Sejak tahun 2021 hingga saat ini, Badan Pendapatan Daerah Kabupaten Seluma berkantor di Gedung Sekretariat Daerah yang beralamat di Jalan Soekarno-Hatta, Pematang Aur, Tais, Kabupaten Seluma.  
+- **Nama Instansi** : Badan Pendapatan Daerah Kabupaten Seluma  
+- **Alamat** : Jl. Soekarno-Hatta No. 01 Pematang Aur-Tais, Kecamatan Seluma, Kabupaten Seluma, Bengkulu  
+- **Kode Pos** : 38576  
+- **Email Utama** : bapenda@selumakab.go.id  
+- **Email Alternatif** : bapendaseluma2021@gmail.com  
 
-Dalam melaksanakan tugas pengelolaan pendapatan daerah, Bapenda Kabupaten Seluma memiliki empat bidang utama, yaitu:
+---
 
-- **Bidang Pendataan dan Pendaftaran**: melaksanakan penyuluhan dan penyebarluasan kebijakan pajak daerah, pendataan dan pendaftaran objek pajak daerah, serta pelayanan dan konsultasi pajak daerah.  
-- **Bidang Penetapan**: bertanggung jawab dalam penetapan wajib pajak daerah serta pengendalian, pemeriksaan, dan pengawasan pajak daerah.  
-- **Bidang Penagihan**: melaksanakan penagihan pajak daerah.  
-- **Bidang Pembukuan dan Pelaporan**: melakukan analisa dan pengembangan pajak daerah, penyusunan kebijakan pajak daerah, serta pengolahan, pemeliharaan, dan pelaporan basis data pajak daerah.  
+## 📖 Sejarah Singkat
+
+Bapenda Kabupaten Seluma dibentuk pada tahun 2021 sebagai hasil pemisahan Bidang Pendapatan dari Badan Pengelolaan Keuangan Daerah (BPKD). Pembentukan ini bertujuan untuk meningkatkan fokus dan optimalisasi pengelolaan pendapatan daerah.
+
+Dasar hukum pembentukan dan pengembangannya antara lain:
+- Peraturan Daerah Kabupaten Seluma Nomor 2 Tahun 2021  
+- Peraturan Bupati Seluma Nomor 30 Tahun 2021  
+- Peraturan Daerah Kabupaten Seluma Nomor 18 Tahun 2022  
+- Peraturan Bupati Seluma Nomor 30 Tahun 2022  
+
+Sejak berdiri, Bapenda berkantor di **Gedung Sekretariat Daerah Kabupaten Seluma**, Jalan Soekarno-Hatta, Pematang Aur, Tais.
+
+---
+
+## ⚙️ Tugas dan Fungsi
+
+Dalam menjalankan tugas pengelolaan pendapatan daerah, Bapenda Kabupaten Seluma memiliki beberapa fungsi utama yang terbagi ke dalam empat bidang:
+
+### 1. 📊 Bidang Pendataan dan Pendaftaran
+Melaksanakan penyuluhan kebijakan pajak, pendataan objek pajak, serta pelayanan dan konsultasi kepada masyarakat.
+
+### 2. 🧾 Bidang Penetapan
+Menangani penetapan wajib pajak serta melakukan pengendalian, pemeriksaan, dan pengawasan pajak daerah.
+
+### 3. 💳 Bidang Penagihan
+Melaksanakan proses penagihan pajak daerah secara efektif dan terstruktur.
+
+### 4. 📚 Bidang Pembukuan dan Pelaporan
+Melakukan analisis, pengolahan data, penyusunan kebijakan, serta pelaporan pajak daerah.
+
+---
+
+## 🎯 Komitmen Kami
+
+Bapenda Kabupaten Seluma berkomitmen untuk:
+- Meningkatkan kualitas pelayanan pajak daerah  
+- Mendorong kesadaran masyarakat dalam memenuhi kewajiban pajak  
+- Mengoptimalkan penerimaan daerah secara transparan dan akuntabel  
+- Mendukung pembangunan daerah melalui pengelolaan pajak yang efektif  
+
+---
+💡 *"Pajakmu, Untuk Negeri"*  
+
+💡 *"Pajak Kuat, Daerah Hebat"*  
