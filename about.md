@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
----
-layout: page
-title: Tentang Kami
-permalink: /about/
----
-
 ## 🏛️ Badan Pendapatan Daerah Kabupaten Seluma
 
 **Badan Pendapatan Daerah (Bapenda) Kabupaten Seluma** merupakan Organisasi Perangkat Daerah (OPD) yang berada di bawah dan bertanggung jawab kepada Bupati Seluma. Bapenda memiliki peran penting dalam mengelola dan mengoptimalkan Pendapatan Asli Daerah (PAD) guna mendukung pembangunan daerah dan kesejahteraan masyarakat.
