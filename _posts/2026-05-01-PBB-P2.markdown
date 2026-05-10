@@ -5,21 +5,94 @@ date:   2026-05-01 13:00:00 +0800
 categories: PBB-P2
 ---
 
+## 📑 Daftar Isi
+- [PBB-P2](#pbb-p2)
+- [Pendaftaran Objek Pajak Baru](#persyaratan-pendaftaran-objek-pajak-baru-pbb-p2)
+- [Salinan](#salinan)
+- [Pengurangan](#pengurangan)
+- [Mutasi Objek Pajak](#mutasi-objek-pajak)
+- [Keberatan](#keberatan)
+- [Pembetulan](#pembetulan)
+
+---
+
+## 🏡 PBB-P2
+
 Pajak Bumi dan Bangunan Perdesaan dan Perkotaan (PBB-P2) adalah pajak atas bumi dan/atau bangunan yang dimiliki, dikuasai, dan/atau dimanfaatkan oleh orang pribadi atau badan.
 
-## Persyaratan Pendaftaran Objek Pajak Baru PBB-P2
+---
+
+## 📝 Persyaratan Pendaftaran Objek Pajak Baru PBB-P2
 
 Untuk mendaftarkan objek pajak baru PBB-P2 di Kabupaten Seluma, wajib pajak harus menyiapkan dan melengkapi dokumen persyaratan berikut:
 
-1. Surat Permohonan Pajak Baru PBB.
-2. Formulir SPOP (Surat Pemberitahuan Objek Pajak).
-3. Formulir LSPOP (Lampiran SPOP), diwajibkan bila terdapat bangunan pada objek pajak.
-4. Fotokopi dokumen kepemilikan tanah, dapat berupa:
-   * Sertifikat Tanah
-   * Surat Keterangan Tanah (SKT)
-   * Akta Jual Beli
-   * Surat Hibah atau Waris
-   * Surat Keterangan Perolehan Hak
-5. Fotokopi IMB (Izin Mendirikan Bangunan) atau Surat Keterangan Bangunan (bila ada bangunan). Apabila tidak memiliki IMB, maka wajib melampirkan **Surat Pengantar dari Kelurahan/Desa** yang menjelaskan rincian luas bangunan tersebut.
-6. Fotokopi KTP Pemohon.
-7. Fotokopi SPPT / STTS (Bukti Lunas PBB) milik tetangga terdekat dari letak objek pajak.
+1. Surat Permohonan Pajak Baru PBB.  
+2. Formulir SPOP (Surat Pemberitahuan Objek Pajak).  
+3. Formulir LSPOP (Lampiran SPOP), diwajibkan bila terdapat bangunan pada objek pajak.  
+4. Fotokopi dokumen kepemilikan tanah, dapat berupa:  
+   - Sertifikat Tanah  
+   - Surat Keterangan Tanah (SKT)  
+   - Akta Jual Beli  
+   - Surat Hibah atau Waris  
+   - Surat Keterangan Perolehan Hak  
+5. Fotokopi IMB (Izin Mendirikan Bangunan) atau Surat Keterangan Bangunan (bila ada bangunan). Apabila tidak memiliki IMB, maka wajib melampirkan **Surat Pengantar dari Kelurahan/Desa** yang menjelaskan rincian luas bangunan tersebut.  
+6. Fotokopi KTP Pemohon.  
+7. Fotokopi SPPT / STTS (Bukti Lunas PBB) milik tetangga terdekat dari letak objek pajak.  
+
+---
+
+## 📄 Salinan
+
+1. Surat Permohonan Pajak Baru PBB;  
+2. Fotokopi bukti LUNAS PBB (STTS);  
+3. Fotokopi KTP;  
+4. Fotocopi tidak ditemukan SPPT PBB tahun yang bersangkutan maka minta Surat Pengantar dari Kelurahan.  
+
+---
+
+## 📉 Pengurangan
+
+1. Surat Permohonan Pengurangan PBB  
+2. Fotokopi PBB;  
+3. Asli SPPT tahunan yang bersangkutan  
+4. Surat Keterangan Tidak Mampu dari Kelurahan;  
+5. Surat Pernyataan dari Permohonan atas sebab pengurangan dengan bermaterai;  
+6. Tidak mempunyai tunggakan atas tunggakan pajak PBB tahun sebelumnya.  
+
+---
+
+## 🔄 Mutasi Objek Pajak
+
+1. Surat Permohonan Mutasi PBB;  
+2. SPOP Induk SPOP Pecah (bila pecah/Sisah);  
+3. LSPOP Induk ( bila ada bangunan) LSPOP (bila pecah /sisa);  
+4. Fotokopi Sertifikat/Surat Keterangan Tanah/Akta Jual Beli/ Surat Hibah atau Waris/Surat Keterangan Perolehan Hak;  
+5. Fotokopi IMB/Suraj Keterangan Bangunan (bila ada Bangunan) apabila tidak ada IMB minta surat Pengantar dari Kelurahan yang menjelaskan luas bangunan:  
+6. Fotokopi KTP;  
+7. Asli SPPT tahun yang bersangkutan  
+8. Fotokopi lunas tunggakan PBB/STTS;  
+9. Fotokopi SSB (bila NJOP PBB/Nilai transaksi diatas 10 Juta  
+
+---
+
+## ⚖️ Keberatan
+
+1. Surat Permohonan Pajak Baru PBB;  
+2. SPOP  
+3. LSPOP (bila ada bangunan);  
+4. Fotokopi Sertifikat/ Surat Keterangan Tanah/Akta Jual Beli/ Surat Hibah atau Waris/Surat Keterangan Perolehan Hak;  
+5. Fotokopi IMB/Surat Keterangan Bangunan (bila ada bangunan) bila tidak ada bangunan IMB minta surat Pengantar dari Kelurahan yang menjelaskan luas Bangunan;  
+6. Fotocopi KTP.  
+7. Lunas Tunggakan PBB sampai tahun sebelum tahun nenoajan Permohonan  
+
+---
+
+## 🛠️ Pembetulan
+
+1. Surat Permohonan Pajak Baru PBB,  
+2. SPOP  
+3. LSPOP (bila ada bangunan);  
+4. Fotokopi Sertifikat/ Surat Keterangan Tanah/Akta Jual Beli/ Surat Hibah atau Waris/Surat Keterangan Perolehan Hak;  
+5. Fotokopi Sertifikat/ Surat Keterangan Tanah/Akta Jual Beli/ Surat Hibah atau Waris/Surat Keterangan Perolehan Hak  
+6. Fotocopi KTP,  
+7. Asli SPPT tahun yang bersangkutan.  
